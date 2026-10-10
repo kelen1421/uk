@@ -1,0 +1,5 @@
+Tool: built-in image_gen.imagegen
+Asset: public/works/soft-objects.png
+Purpose: demo concept artwork, not represented as Yuky's original work.
+
+Use case: stylized-concept. Asset type: cover image for a multidisciplinary designer portfolio, demo 3D project called Soft Objects. Create one exquisitely art-directed contemporary 3D still life, landscape 3:2 frame. In a pale warm pink seamless studio background, a large playful glossy coral-pink inflated tubular knot sculptural object sits to the left center, a smaller polished chrome orb to the right, one translucent pink glass sphere in foreground, and small pistachio foam sphere behind. Premium physical materials, visible subtle roughness, ambient occlusion, elegant soft contact shadows, softly lit from upper left. Tight sculptural composition filling frame, rich coral pink focal point and very light pink background. Sophisticated experimental design portfolio render. No text, no logos, no watermarks, no collage.
